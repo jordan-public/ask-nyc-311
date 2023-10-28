@@ -24,3 +24,5 @@ The prototype is deployed [here](https://near.org/nearjordan.near/widget/ask). A
 DISCLAIMER: This is a prototype and it can produce incorrect answers, for which we are not responsible.
 
 Video demo can be downloaded [here](./askNYC311.mov) or viewed on YouTube [here](https://youtu.be/ZD0AwvebVio).
+
+#hack #buildcity #hackoween
