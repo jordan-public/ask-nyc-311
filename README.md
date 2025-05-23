@@ -25,4 +25,4 @@ DISCLAIMER: This is a prototype and it can produce incorrect answers, for which 
 
 Video demo can be downloaded [here](./askNYC311.mov) or viewed on YouTube [here](https://youtu.be/ZD0AwvebVio).
 
-#hack #buildcity #hackoween
+[#hack #buildcity #hackoween](https://taikai.network/hackbox/hackathons/HackoweenCivicTech/projects/cloa8sznb00dkxk01w93wp0ax/idea)
